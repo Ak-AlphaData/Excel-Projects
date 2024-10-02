@@ -1,6 +1,6 @@
 # E-commerce Sales Analysis: Excel Vrinda Store Analysis
 
-## Data Analytics Project: Interactive Dashboard in Excel for Brunda Store
+## Data Analytics Project: Interactive Dashboard in Excel for Vrinda Store
 
 ### Project Overview
 This project involves the creation of an interactive Excel dashboard designed to analyze sales data for the Vrinda Store. The dashboard allows users to visualize key metrics and trends dynamically, helping stakeholders make informed business decisions. Through various Excel functionalities, this project showcases skills in data cleaning, processing, visualization, and analysis.
